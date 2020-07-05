@@ -67,12 +67,14 @@ def interact_model(
         ckpt = tf.train.latest_checkpoint(os.path.join('models', model_name))
         saver.restore(sess, ckpt)
 
+        hist_buf = []
         while True:
-            raw_text = input("Model prompt >>> ")
+            raw_text = input("INPUT: ")
             while not raw_text:
                 print('Prompt should not be empty!')
-                raw_text = input("Model prompt >>> ")
-            context_tokens = enc.encode(raw_text)
+                raw_text = input("INPUT: ")
+            hist = ''.join(hist_buf[-3:])
+            context_tokens = enc.encode(hist+"[INPUT]: "+raw_text+"\n[Joe Rogan]: ")
             generated = 0
             for _ in range(nsamples // batch_size):
                 out = sess.run(output, feed_dict={
@@ -81,9 +83,8 @@ def interact_model(
                 for i in range(batch_size):
                     generated += 1
                     text = enc.decode(out[i])
-                    print("=" * 40 + " SAMPLE " + str(generated) + " " + "=" * 40)
-                    print(text)
-            print("=" * 80)
+                    trunc_text = text.split('\n')[0]
+                    print("Joe Rogan: "+trunc_text)
 
 if __name__ == '__main__':
     fire.Fire(interact_model)
