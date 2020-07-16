@@ -84,6 +84,9 @@ def interact_model(
                     generated += 1
                     text = enc.decode(out[i])
                     trunc_text = text.split('\n')[0]
+                    trunc_text = trunc_text.split('[Joe Rogan]:')[0]
+                    trunc_text = trunc_text.split('[INPUT]:')[0]
+                    trunc_text = trunc_text.split('  ')[0]
                     print("Joe Rogan:"+trunc_text)
             hist_buf.append("[INPUT]: "+raw_text+"\n[Joe Rogan]:"+trunc_text+"\n")
 
