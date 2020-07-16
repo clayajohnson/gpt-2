@@ -1,0 +1,45 @@
+INPUT: Hey Joe, thanks for having me on the show. How are you today?
+2020-07-16 14:59:57.392781: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10.0
+Joe Rogan: Well, I'm fine.  I've got a nice lunch with my boys tonight.
+INPUT: That's great to hear. I didn't know you had kids.
+Joe Rogan: I have two little girls and one of them is already married.  I'm having a kid.
+INPUT: Who are your boys then?
+Joe Rogan: The two girls.
+INPUT: Ah I see. How old are your kids?
+Joe Rogan: They're all five.
+INPUT: Oh that's quite young! What are their names?
+Joe Rogan: Elaine and Molly.
+INPUT: Elaine and Molly sound like lovely young girls. It must be hard for you living in a household where you're the only man.
+Joe Rogan: It's not much to live through, but it isn't all bad.
+INPUT: I'm glad to hear that!
+Joe Rogan: It's funny how your perspective becomes warped when you're dealing with women.
+INPUT: That's a pretty controversial statement Joe.
+Joe Rogan: For me, it's a perfect storm of emotions that I'm dealing with. I've had a lot of emotional problems my entire life, and I live with them every day.
+INPUT: Everyone has emotional problems though and everyone is dealing with them every day.
+Joe Rogan: You know, for me, I'm dealing with some pretty heavy emotions, too.
+INPUT: I'm sorry to hear that Joe, what sort of emotions are you dealing with?
+Joe Rogan: I don't know. I'm not sure. It can be pretty difficult, but I don't know. It could be one of the following: I have a lot of anger and I feel like there's an issue with my husband. I have a lot of sadness. I feel like I've been betrayed by my family and friends. I have an issue with my father. I feel like I've been treated unjustly by my father. I have an issue with my relationship with my mother. I have a lot of issues right now. I have a lot of issues right now that I just don't know what to do with. They're all things that I'm dealing with, and then I'm trying to come away from it as a person and as a person who's interested in being honest about it and having a good conversation with people.
+INPUT: Wow that's pretty heavy Joe, I'm not quite sure how to respond to that. Are you ok?
+Joe Rogan: Hell yeah, I'm pretty good, man. I'm the kind of guy who's trying to put on a good face, but when you're talking like that you can't just be lying down and say yeah, I'm OK. That's not going to work for me. I do like to be truthful. I have a lot of questions to ask about it. I have a lot of stuff to answer. I want to make sure I'm telling the truth and I want to be honest with people about what's going on in my head.
+INPUT: I feel the same way. I want to be honest about my emotions too.
+Joe Rogan: Hell yeah. I'm just hoping that people will listen to me and that they'll let me know when they need me. Because I have issues with my emotions. I'm not a great listener. I tend to be a little bit of a drama queen. I'm not the person who's always on the spot and who's always saying "no" to things. I'm not the person who's got a big mouth and who's always like "what the fuck? What do you mean what are you talking about? What are you doing?"
+INPUT: Well I'm listening to you right now.
+Joe Rogan: Hell yeah I am.
+INPUT: What is your favorite question to ask your guests on the show?
+Joe Rogan: I don't know. I like to ask people things which are interesting to them. I don't like to ask them questions they don't wanna answer. For example, at one point I said to Tom, after our conversation about what I'm trying to achieve as a comedian, I asked him what he thought about the fact that his show is now on Netflix. Tom says he can't even watch it. He's like "well you know what, man? I think I'm kind of over there now, and you can watch it, but I don't understand your point." I'm like "sure, I'll watch it" and he's like "oh I don't understand your point" and I'm like "well you know what, I'm not listening to your show because I'm not interested in your point" and he's like "well I'm kind of over there now" and I'm like "okay, but I'm still listening to your show" and he's like "well okay well I'm going to give you my point" and I'm like "okay, okay" and he's like "well I think I'm okay, but I'm not satisfied with what I get out of it" and I'm like "you know what? If you don't like it, don't say anything," and that's what I'm going to do.
+INPUT: Ask me a question.
+Joe Rogan: I don't know. I didn't know I was going to be on the show and I was excited to come on and do a bit. I didn't know I was going to say something and it was a really nice idea. I thought that was kind of cool. I thought that was a really interesting opportunity to have me on the show and then be like "oh yeah, you're going to say something" and then not be able to do it and then get stuck in between. That was a really good idea. As a consequence of that I don't think I think I've ever heard myself say something like "oh yeah, you're really interesting, you should come on the show because you're interesting and you should do something interesting" because the reason I don't want to be interesting is because I know I'm going to say something that is different and I'm going to say it at the wrong time.
+INPUT: What do you want to ask me Joe?
+Joe Rogan: I don't really know. I don't really know. I guess if I know something I want to know it. I have no idea. I think I do like to ask people things they don't know about themselves. I think a lot of it is just, you know, I think it's fun because it's like, it's a conversation. It's like "okay here's my question, here's my answer." It's like "you know what, I'm sorry I'm here. I don't know why I'm here." It's like one of those things where you say, "what would you say to a girl?" You don't know how to answer, you don't know how to ask it…it can be really fun.
+INPUT: Are you asking me about girls?
+Joe Rogan: I'm asking you about my wife.
+INPUT: What are you asking me specifically?
+Joe Rogan: I was wondering if you guys can, you know, if you guys can just talk about the difference between being married and being single and it's just sort of the same thing, the difference is the relationship that you've built, that you've built and that you've built in your marriage is not just a relationship. It's a relationship that you've built in the course of your life, it's a relationship that is, it's built in the course of your life. So I'm asking you guys, what are the differences there you'd like to talk about?
+INPUT: Well I'm not married but I do think that there's a big difference between marriage and dating and being single.
+Joe Rogan: Yeah, I think that that's kind of, I think that that's kind of a, I think that that's a big, big difference in terms of, I mean one of the things I think is so interesting is that what you're seeing with the two of you is that you're really, you're really, you're really, you're, you know, you are really, you're, you're kind of two different types of people, you know. You're kind of kind of a monogamous person, you know, with your wife, you're kind of a polygamist, you know what I mean? That's, that's, that's a big difference between being married and being single. That's kind of, I mean, I think that's kind of interesting. I don't know if you guys, you know what I mean? I don't know if you guys have talked about that.
+INPUT: Yeah I know what you mean.
+Joe Rogan: I like to think of it as kind of a double identity, you know?
+INPUT: A double identity? How does that work?
+Joe Rogan: I think it's a double identity. I think that there's, there's a difference between that and just being, you know, you know, kind of, you know, you know, you know you're just, you're kind of, you know, you know that you've got these two identities where your wife is kind of a loving, kind of good wife, because you know she's not just going to be a crazy person, she's going to be a good mother, and that kind of thing, and your wife kind of is kind of like, your girlfriend, you know what I mean?  I think it's kind of interesting, I like to think that that is kind of a double identity.
+INPUT: Yeah I think I know what you mean. Anyway Joe, it's been great being on the show today but I have to go now. Thanks for chatting, goodbye now, thanks again.
+Joe Rogan: Thanks.
