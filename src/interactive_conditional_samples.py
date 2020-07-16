@@ -14,8 +14,8 @@ def interact_model(
     nsamples=1,
     batch_size=1,
     length=None,
-    temperature=1,
-    top_k=0,
+    temperature=0.7,
+    top_k=40,
     top_p=0.0
 ):
     """
@@ -85,6 +85,7 @@ def interact_model(
                     text = enc.decode(out[i])
                     trunc_text = text.split('\n')[0]
                     print("Joe Rogan: "+trunc_text)
+            hist_buf.append("[INPUT]: "+raw_text+"\n[Joe Rogan]:"+trunc_text+"\n")
 
 if __name__ == '__main__':
     fire.Fire(interact_model)
