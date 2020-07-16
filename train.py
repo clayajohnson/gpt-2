@@ -2,6 +2,11 @@
 # Usage:
 #  PYTHONPATH=src ./train --dataset <file|directory|glob>
 
+# Optimum settings for training on JRE data so far:
+# --learning_rate 0.0001
+# --sample_every 10
+# Stop on roughly 70 steps
+
 import argparse
 import json
 import os
